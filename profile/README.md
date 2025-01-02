@@ -1,4 +1,4 @@
-# R&D Prototypes and Experiments by 
+# R&D Prototypes and Experiments 
 
 Welcome to [@coatless](https://github.com/coatless) and contributors' experimental playground! 
 This GitHub organization hosts a diverse collection of research and development (R&D) projects, prototypes, and proof-of-concepts. 
